@@ -15,7 +15,7 @@
   	<servlets.version>3.1.0</servlets.version>
   	<jsp.version>2.3.1</jsp.version>
   	<hsqldb.version>1.8.0.10</hsqldb.version>
-  	<mysql.version>8.0.13</mysql.version>
+  	<mysql.version>8.0.16</mysql.version>
   	<log4j.version>1.2.17</log4j.version>
   	<commonsFileUpload.version>1.3.3</commonsFileUpload.version>
   </properties>
