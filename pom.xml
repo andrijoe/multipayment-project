@@ -17,7 +17,7 @@
   	<hsqldb.version>1.8.0.10</hsqldb.version>
   	<mysql.version>8.0.13</mysql.version>
   	<log4j.version>1.2.17</log4j.version>
-  	<commonsFileUpload.version>1.3.3</commonsFileUpload.version>
+  	<commonsFileUpload.version>1.5</commonsFileUpload.version>
   </properties>
   <dependencies>
   	<dependency>
